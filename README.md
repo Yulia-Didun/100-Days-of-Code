@@ -25,3 +25,17 @@ My implementation of the projects from [100 Days of Code: The Complete Python Pr
 
 ## DAY 10 - Functions with Outputs
 [Calculator](https://github.com/Yulia-Didun/100-Days-of-Code/tree/main/DAY%2010%20(Calculator))
+
+
+## DAY 11 - The Blackjack Capstone Project
+[Blackjack Game](https://github.com/Yulia-Didun/100-Days-of-Code/tree/main/DAY%2011%20(Blackjack%20Game))
+
+
+## DAY 12 - Scope and Number Guessing Game
+[Guess the Number Game](https://github.com/Yulia-Didun/100-Days-of-Code/tree/main/DAY%2012%20(Guess%20The%20Number%20Game))
+
+
+## DAY 14 - Higher Lower Game Project
+[Higher/Lower Game](https://github.com/Yulia-Didun/100-Days-of-Code/tree/main/DAY%2014%20(Higher%20Lower%20Game))
+
+
