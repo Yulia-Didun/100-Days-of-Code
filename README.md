@@ -19,5 +19,9 @@ My implementation of the projects from [100 Days of Code: The Complete Python Pr
 [Caesar Cipher](https://github.com/Yulia-Didun/100-Days-of-Code/tree/main/DAY%208%20(Caesar%20Cipher))
 
 
-## DAY 8 - Dictionaries, Nesting and the Secret Auction
+## DAY 9 - Dictionaries, Nesting and the Secret Auction
 [Blind Auction](https://github.com/Yulia-Didun/100-Days-of-Code/tree/main/DAY%209%20(Blind%20Auction))
+
+
+## DAY 10 - Functions with Outputs
+[Calculator](https://github.com/Yulia-Didun/100-Days-of-Code/tree/main/DAY%2010%20(Calculator))
