@@ -49,3 +49,7 @@ My implementation of the projects from [100 Days of Code: The Complete Python Pr
 
 ## DAY 17 - The Quiz Project & Benefits of OOP
 [Quiz Game](https://github.com/Yulia-Didun/100-Days-of-Code/tree/main/DAY%2017%20(Quiz%20Game))
+
+
+## DAY 18 - Turtle & the Graphical User Interface (GUI)
+[The Hirst Painting Project](https://github.com/Yulia-Didun/100-Days-of-Code/blob/main/DAY%2018%20(The%20Hirst%20Painting)/main.py)
