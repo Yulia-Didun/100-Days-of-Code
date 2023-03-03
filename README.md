@@ -39,3 +39,13 @@ My implementation of the projects from [100 Days of Code: The Complete Python Pr
 [Higher/Lower Game](https://github.com/Yulia-Didun/100-Days-of-Code/tree/main/DAY%2014%20(Higher%20Lower%20Game))
 
 
+## DAY 15 - Local Development Environment Setup and the Coffee Machine 
+[Coffee Machine](https://github.com/Yulia-Didun/100-Days-of-Code/tree/main/DAY%2015%20(Coffee%20Machine))
+
+
+## DAY 16 - Object Oriented Programming (OOP)
+[Coffee Machine in OOP](https://github.com/Yulia-Didun/100-Days-of-Code/tree/main/DAY%2016%20(Coffee%20Machine%20in%20OOP))
+
+
+## DAY 17 - The Quiz Project & Benefits of OOP
+[Quiz Game](https://github.com/Yulia-Didun/100-Days-of-Code/tree/main/DAY%2017%20(Quiz%20Game))
