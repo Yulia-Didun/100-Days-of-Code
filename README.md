@@ -53,3 +53,13 @@ My implementation of the projects from [100 Days of Code: The Complete Python Pr
 
 ## DAY 18 - Turtle & the Graphical User Interface (GUI)
 [The Hirst Painting Project](https://github.com/Yulia-Didun/100-Days-of-Code/blob/main/DAY%2018%20(The%20Hirst%20Painting)/main.py)
+
+
+## DAY 19 - Instances, State and Higher Order Functions
+[Etch-a-Sketch Game](https://github.com/Yulia-Didun/100-Days-of-Code/blob/main/DAY%2019%20(Turtle%20Race%20and%20Etch-a-Sketch%20Games)/etch_a_sketch.py)
+[Turtle Race Game](https://github.com/Yulia-Didun/100-Days-of-Code/blob/main/DAY%2019%20(Turtle%20Race%20and%20Etch-a-Sketch%20Games)/turtle_race.py)
+
+
+## DAY 20-21 - Build a Snake Game part 1: Animations and Coordinates; part 2: Inheritance and List Slicing
+[The Snake Game](https://github.com/Yulia-Didun/100-Days-of-Code/tree/main/DAY%2020-21%20(The%20Snake%20Game))
+
